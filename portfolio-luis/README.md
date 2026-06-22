@@ -1,7 +1,7 @@
 # 🚀 Hub de Projetos & Portfólio Técnico
 
 ## 👤 Identificação do Estudante
-- Nome: Luis Gustavo
+- Nome: Luis Gabriel 
 - Curso: Técnico em Desenvolvimento de Sistemas
 
 ## Projetos
